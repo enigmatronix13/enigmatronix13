@@ -1,7 +1,7 @@
 ## Hey there, welcome to my profile!
 
 ### 🧠 About Me
-- 🛸 May or may not be a background character in someone else’s main quest.
+- 🗺️ Currently navigating the human experience with a moderate level of success.
 - 🌽 Banished from three cornfields for asking too many questions.
 - 🐦 Has been followed by the same pigeon since 2016. Coincidence? Unlikely.
 
