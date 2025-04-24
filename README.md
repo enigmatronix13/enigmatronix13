@@ -1,12 +1,5 @@
 ## Hey there, welcome to my profile!
 
-### 🕴️ About Me
-- 🗺️ Currently navigating the human experience with a moderate level of success.
-- 🌽 Banished from three cornfields for asking too many questions.
-- 🐦‍⬛ Has been followed by the same pigeon since 2016. Coincidence? Unlikely.
-
----
-
 ### 💻 Languages
 <p> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/> </p>
 
