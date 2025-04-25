@@ -26,9 +26,3 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/enigmatronix13)
 
----
-
-### Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enigmatronix13&style=flat&color=blue" alt="Profile views"/>
-</p>
