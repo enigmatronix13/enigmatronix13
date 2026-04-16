@@ -82,4 +82,4 @@
 
 ### 📬 Contact Me
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/enigmatronix13)
+[![Discord](https://discord.gg/pdqbF7ZK)
