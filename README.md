@@ -1,4 +1,4 @@
-# hey there! 👾
+# hey there
 
 ### languages
 
@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
 </p>
-
 
 ### frameworks & libraries
 
