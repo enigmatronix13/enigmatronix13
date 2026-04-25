@@ -1,9 +1,5 @@
 # hey there! 👾
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right"/>
-
----
-
 ### languages
 
 <p>
@@ -16,7 +12,6 @@
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
 </p>
 
----
 
 ### frameworks & libraries
 
@@ -36,7 +31,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
----
 
 ### big data & distributed systems
 
@@ -49,7 +43,6 @@
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
 </p>
 
----
 
 ### databases
 
@@ -62,7 +55,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 </p>
 
----
 
 ### tools
 
@@ -75,7 +67,6 @@
   <img src="https://img.shields.io/badge/Wireshark-1675C8?style=flat&logo=wireshark&logoColor=white"/>
 </p>
 
----
 
 ### stats
 
@@ -88,7 +79,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmatronix13&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 ### reach me
 
