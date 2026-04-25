@@ -1,13 +1,6 @@
-# Hey there, I'm Kaaviya! 👋
+# Hey there! 👋
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
-
-I'm a **B.Tech Information Technology** student (Minor in Big Data Analytics) at **Manipal Institute of Technology, MAHE** — researching at the intersection of ML, distributed systems, and security.
-
-🔬 Co-inventor on two filed patents &nbsp;|&nbsp; 🧩 CTF player (Cryptonite) &nbsp;|&nbsp; 🌐 7 languages spoken  
-📍 Manipal, India &nbsp;|&nbsp; 📧 enigmatronix13@protonmail.com
-
----
 
 ### 💻 Languages
 <p>
