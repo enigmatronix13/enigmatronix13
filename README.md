@@ -1,6 +1,5 @@
 # hey there 👾
 
----
 
 ### languages
 
@@ -14,7 +13,6 @@
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 </p>
 
----
 
 ### frameworks & libraries
 
@@ -34,8 +32,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
-
 ### big data & distributed systems
 
 <p>
@@ -47,7 +43,6 @@
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
 </p>
 
----
 
 ### databases
 
@@ -60,7 +55,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </p>
 
----
 
 ### tools
 
@@ -73,7 +67,6 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
 </p>
 
----
 
 ### stats
 
@@ -86,7 +79,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmatronix13&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 ### reach me
 
