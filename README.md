@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
+<!--
 ### big data & distributed systems
 
 <p>
@@ -56,6 +57,7 @@
   <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
 </p>
+-->
 
 ### databases
 
