@@ -111,11 +111,11 @@ strong opinions, weakly held, about whatever i read 10 minutes ago.
 
 ### stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enigmatronix13&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmatronix13&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enigmatronix13&show_icons=true&hide_border=true&rank_icon=github&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmatronix13&layout=compact&hide_border=true&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=enigmatronix13&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=enigmatronix13&hide_border=true&theme=dark" />
 </p>
 
 ### reach me
