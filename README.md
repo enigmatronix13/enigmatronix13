@@ -6,7 +6,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmatronix13&layout=compact&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=enigmatronix13&hide_border=true" />
 </p>
 
 ### languages
