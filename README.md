@@ -7,15 +7,6 @@ CS student. I just do random things and see what sticks. Projects, research, wha
 [![Email](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact.enigmatronix13@protonmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QCSfHEsrj8)
 
-### stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enigmatronix13&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmatronix13&layout=compact&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=enigmatronix13&hide_border=true" />
-</p>
-
 ### languages
 
 <p>
@@ -116,6 +107,15 @@ CS student. I just do random things and see what sticks. Projects, research, wha
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+### stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enigmatronix13&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmatronix13&layout=compact&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=enigmatronix13&hide_border=true" />
 </p>
 
 ### reach me
