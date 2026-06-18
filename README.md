@@ -1,30 +1,18 @@
 # hey there!
 
-<table>
+<<table border="0" style="border:none;">
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="top" style="border:none;">
 
 ### about me
-
-Computer Science student interested in learning, building, and solving problems.
-
-I enjoy exploring a wide range of topics, working on projects, contributing to open source, and continuously improving my understanding of technology and its applications.
-
-<br>
-
-[![Email](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact.enigmatronix13@protonmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QCSfHEsrj8)
+CS student. I just do random things and see what sticks. Projects, research, whatever's interesting that week.
 
 </td>
-
-<td width="45%" align="center">
-
+<td width="45%" align="center" style="border:none;">
 <img src="https://64.media.tumblr.com/8c3d75c522c0004cc50e9e771192066c/tumblr_pmmzm9pxa01xsjshwo1_500.gifv" width="280"/>
-
 </td>
 </tr>
 </table>
-
 
 ### stats
 <p align="center">
