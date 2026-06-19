@@ -3,9 +3,9 @@
 <img src="https://64.media.tumblr.com/8c3d75c522c0004cc50e9e771192066c/tumblr_pmmzm9pxa01xsjshwo1_500.gifv" width="150" align="right"/>
 
 ### about me
-cs student. i just do random things and see what sticks. projects, research, whatever's interesting that week.
+###### cs student. i just do random things and see what sticks. projects, research, whatever's interesting that week.
 
-strong opinions, weakly held, about whatever i read 10 minutes ago.
+###### strong opinions, weakly held, about whatever i read 10 minutes ago.
 
 ### languages
 
