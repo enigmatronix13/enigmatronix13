@@ -5,8 +5,6 @@
 ### about me
 cs student. i just do random things and see what sticks. projects, research, whatever's interesting that week.
 
-strong opinions, weakly held, about whatever i read 10 minutes ago.
-
 ### languages
 
 <p>
