@@ -122,9 +122,9 @@ cs student. i just do random things and see what sticks. projects, research, wha
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=enigmatronix13&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmatronix13&layout=compact&hide_border=true&theme=transparent" />
 </p>  -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=enigmatronix13&hide_border=true&theme=transparent" />
-</p>
+</p> -->
 
 ### ☆ reach me
 
